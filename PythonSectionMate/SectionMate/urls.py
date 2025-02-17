@@ -15,7 +15,7 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.urls import path
-from .views import assign_sections_view, save_server  # Asigură-te că save_server este importat
+from core.views import assign_sections_view, save_server  # Asigură-te că save_server este importat
 
 urlpatterns = [
     path("", assign_sections_view, name="home"),  # ✅ Aceasta va fi pagina principală
