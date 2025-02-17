@@ -1,0 +1,126 @@
+{
+    "3": {
+        "A": [
+            "YELLOW",
+            "BLUE",
+            "RED"
+        ]
+    },
+    "4": {
+        "A": [
+            "YELLOW",
+            "BLUE",
+            "RED",
+            "GREEN"
+        ],
+        "B": [
+            "YELLOW",
+            "BLUE",
+            "RED",
+            "UPSTAIRS"
+        ]
+    },
+    "5": {
+        "A": [
+            "YELLOW",
+            "BLUE",
+            "RED",
+            "GREEN",
+            "PINK"
+        ],
+        "B": [
+            "YELLOW",
+            "BLUE",
+            "RED",
+            "GREEN",
+            "UPSTAIRS"
+        ]
+    },
+    "6": {
+        "A": [
+            "YELLOW",
+            "BLUE",
+            "RED",
+            "GREEN",
+            "PINK",
+            "UPSTAIRS"
+        ],
+        "B": [
+            "YELLOW",
+            "BLUE",
+            "RED",
+            "GREEN",
+            "UPSTAIRS LEFT",
+            "UPSTAIRS RIGHT"
+        ]
+    },
+    "7": {
+        "A": [
+            "YELLOW",
+            "BLUE",
+            "RED",
+            "GREEN",
+            "PINK",
+            "PURPLE",
+            "UPSTAIRS"
+        ],
+        "B": [
+            "YELLOW",
+            "BLUE",
+            "RED",
+            "GREEN",
+            "PINK",
+            "UPSTAIRS LEFT",
+            "UPSTAIRS RIGHT"
+        ]
+    },
+    "8": {
+        "B": [
+            "YELLOW",
+            "BLUE",
+            "RED",
+            "GREEN",
+            "PINK",
+            "PURPLE",
+            "UPSTAIRS LEFT",
+            "UPSTAIRS RIGHT"
+        ]
+    },
+    "9": {
+        "B": [
+            "YELLOW",
+            "BLUE",
+            "RED",
+            "GREEN",
+            "PINK",
+            "PURPLE",
+            "UPSTAIRS LEFT",
+            "UPSTAIRS RIGHT"
+        ],
+        "C": [
+            "YELLOW",
+            "BLUE",
+            "RED",
+            "GREEN",
+            "PINK",
+            "PURPLE",
+            "UPSTAIRS LEFT",
+            "UPSTAIRS RIGHT",
+            "LOUNGE"
+        ]
+    },
+    "10": {
+        "B": [
+            "YELLOW",
+            "BLUE",
+            "RED",
+            "GREEN",
+            "PINK",
+            "PURPLE",
+            "TEAL",
+            "UPSTAIRS LEFT",
+            "UPSTAIRS RIGHT",
+            "LOUNGE"
+        ]
+    }
+}
